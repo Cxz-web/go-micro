@@ -1,9 +1,9 @@
-module go-micro
+module github.com/Cxz-web/go-micro
 
 go 1.15
 
 require (
-	cloud.google.com/go v0.50.0
+	cloud.google.com/go v0.50.0 // indirect
 	github.com/micro/micro/v3 v3.0.0
 )
 
